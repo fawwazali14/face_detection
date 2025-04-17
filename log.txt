@@ -1,0 +1,25 @@
+Initializing the DeepFace GPT-voice assistant...
+Loading DeepFace ArcFace model...
+Voice thread: starting and waiting for initial greeting...
+Face thread: starting video capture...
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Embedding extraction error: represent() got an unexpected keyword argument 'model'
+Face thread: 'q' pressed, terminating.
+Face thread: Video capture stopped. Waiting for voice thread to finish...
+Assistant has stopped. Exiting program.
